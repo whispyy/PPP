@@ -12,3 +12,6 @@
 
 - Idée (Pourquoi ?)
 - Services
+- Rentabilisation
+- Localisation
+- Perspectives futures
